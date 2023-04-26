@@ -7,7 +7,7 @@
 ------------
 #### ¿La terminal ideal para usar Git en Windows es?
 		Git Bash o una terminal derivada de Linux
-###### Razón: GitBash es una herramienta de tipo consola que básicamente nos permite manipular y gestionar todo el proceso a realizar con nuestro proyecto. Git viene con un bash que funciona como el de Linux. Como tal no trae todas la capacidades de una terminal de Linux, pero funciona bastante bien.
+###### Razón:- GitBash es una herramienta de tipo consola que básicamente nos permite manipular y gestionar todo el proceso a realizar con nuestro proyecto. Git viene con un bash que funciona como el de Linux. Como tal no trae todas la capacidades de una terminal de Linux, pero funciona bastante bien.
 ###### Vídeo:  [Instalando Git y GitBash en Windows](https://platzi.com/clases/1557-git-github/19933-instalando-git-y-gitbash-en-windows/ "Instalando Git y GitBash en Windows")
 ------------
 #### ¿Qué guarda Git?
